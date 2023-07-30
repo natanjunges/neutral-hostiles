@@ -23,13 +23,14 @@ A message should pop up and you're ready to go!
 ## Affected Mobs
 ##### All the affected hostile mobs are listed below
 
-Blaze, Creeper, Drowned, Endermite, Ghast, Hoglin, Husk, Magma Cube, Phantom, Shulker, Silverfish, Skeleton, Slime, Spider, Cave Spider, Stray, Witch, Wither Skeleton, Zoglin, Zombie, Zombie Villager
+Blaze, Cave Spider (hostile in the dark), Creeper, Drowned, Endermite, Ghast, Hoglin, Husk, Magma Cube, Phantom, Shulker, Silverfish, Skeleton, Slime, Spider (hostile in the dark), Stray, Witch, Wither Skeleton, Zoglin, Zombie, Zombie Villager
 
 ## Not Affected Mobs
 ##### All the not affected hostile mobs are listed below, with the rationale for those decisions
 
 - Elder Guardian, Guardian, Piglin Brute and Warden: They're supposed to protect the structures they spawn in;
-- Evoker, Pillager, Ravager, Vex, Vindicator: They're supposed to be hostile lore-wise;
+- Evoker, Pillager, Ravager, Vex and Vindicator: They're supposed to antagonize villagers and players;
+- Ender Dragon and Wither: They're bosses;
 
 ## Having issues?
 
