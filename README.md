@@ -14,7 +14,7 @@ Minecraft is a fun sandbox game, but it can get scary and annoying for some play
 That's why I've made this Datapack, it allows Hostile Mobs to exist. They will not harm you until you harm them. This Datapack allows for challenges in resource gathering with hostile mobs, but have not made it too easy or impossible.
 
 ## How to use
-Datapacks are simple to install, simply [Download the Latest Release](https://github.com/SamL2020/neutral-hostiles/releases/latest) as a `.ZIP`. 
+Datapacks are simple to install, simply [Download the Latest Release](../../releases/latest) as a `.ZIP`. 
 
 Put it in your world folder (Under `saves/<world name>/datapacks`) and use the `/reload` command ingame!
 
@@ -48,4 +48,4 @@ Blaze, Cave Spider (hostile in the dark), Creeper, Drowned, Endermite, Ghast, Ho
 - Make sure you have no other commands/datapacks that use the [scoreboard](https://minecraft.fandom.com/wiki/Scoreboard) `angry_countdown`.
 - Make sure you have no other commands/datapacks that modify all [advancements](https://minecraft.fandom.com/wiki/Advancement).
 
-#### Still having issues? Try making an [issue report](https://github.com/SamL2020/neutral-hostiles/issues)
+#### Still having issues? Try making an [issue report](../../issues)
